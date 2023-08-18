@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GopikaSuresh9
-- 👀 I’m interested in data specialist roles
+- 👋 Hi, I’m @Gopika- Mini Suresh | Data Analyst Trainee
+- 👀 I’m interested in working with data
 - 🌱 I’m a recent Msc Data Sciece graduate from the University of Essex
 - 📫 You can reach me via email - gopikasuresh03@gmail.com 
 
